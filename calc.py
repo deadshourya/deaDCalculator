@@ -1,12 +1,12 @@
 import sys
 from PyQt4 import QtGui, QtCore
 from PyQt4.QtCore import Qt
-from math import sqrt
-from math import sin
-from math import cos
-from math import tan
-from math import log
-from math import log10
+from math import sqrt,sin,cos,tan,log,log10
+#from math import sin
+#from math import cos
+#from math import tan
+#from math import log
+#from math import log10
 
 
  
